@@ -25,6 +25,9 @@ level conversion is required or a LaunchPad pin could be fried.  An
 inexpensive way to do one way level conversion of this sort is with
 resistors in a voltage divider as shown in the circuit below.
 
+This code should also work with an Arduino Uno but leave the voltage
+divider out of the circuit since it is a 5V device also.
+
 Pin and wiring connections:
 ---------------------------
 Sensor    LaunchPad
