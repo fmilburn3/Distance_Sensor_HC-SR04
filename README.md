@@ -11,4 +11,6 @@ This sensor can give unexpected results under certain circumstances.  Among them
 * Object is not in sensor field
 * Sometimes the results are just spurious.... take multiple readings
 
+See the Wiki for a photo showing how easy it can be to set up.
+
 It can be fairly accurate (depending on your needs), but the coarseness of the beam limits resolution.  It's a inexpensive little sensor that works well for the cost - have fun with it.
