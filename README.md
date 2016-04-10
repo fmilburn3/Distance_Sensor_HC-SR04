@@ -13,7 +13,7 @@ This sensor can give unexpected results under certain circumstances.  Among them
 
 See the Wiki for a photo showing how easy it can be to set up.
 
-There is a datasheet with the beam pattern here: http://www.robot-electronics.co.uk/htm/srf05tech.htm
+There is a datasheet with the beam pattern here: http://www.robot-electronics.co.uk/htm/sonar_faq.htm
 
 It can be fairly accurate (depending on your needs), but the wide beam limits resolution for many objects.  It's a inexpensive little sensor that works well for the cost - have fun with it.
 
