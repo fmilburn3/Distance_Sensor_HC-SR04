@@ -5,6 +5,7 @@ Demonstrates sensing distance with the HC-SR04 using Texas Instruments LaunchPad
 
 This sensor can give unexpected results under certain circumstances.  Among them...
 * Sensor is not perpendicular to object and echo is reflecting elsewhere
+* Surface sensor is aimed at is a poor reflector or is irregular
 * Sensor is too close to floor or other object that is reflecting back instead of the intended object
 * Object is too small / narrow
 * Object is too close or too far away
